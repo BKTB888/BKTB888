@@ -15,7 +15,7 @@ Computer Engineering student at BME, Budapest.
 | Project | What | Stack |
 |---|---|---|
 | [General_MiniMax](https://github.com/BKTB888/General_MiniMax) | Alpha-beta search, generic over any game | Rust |
-| [Risk](https://github.com/BKTB888/Risk) | Exact battle probabilities for the Risk board game | Rust |
+| [Risk](https://github.com/BKTB888/Risk) | Exact battle probabilities for the Risk board game | Python, Rust |
 | [PathFinder](https://github.com/BKTB888/PathFinder) | Path-finding application | C++ |
 | [SudokuSolver](https://github.com/BKTB888/SudokuSolver) | Sudoku solver for any board size | C |
 | [LifeSim](https://github.com/BKTB888/LifeSim) | Life simulator game | Java |
