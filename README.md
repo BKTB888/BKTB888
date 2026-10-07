@@ -21,4 +21,4 @@ Computer Engineering student at BME, Budapest.
 | [LifeSim](https://github.com/BKTB888/LifeSim) | Life simulator game | Java |
 | [resume](https://github.com/BKTB888/resume) | Bilingual (HU/EN) résumé with one-click PDF | JavaScript |
 
-📄 [Résumé](https://bktb888.github.io/resume/) · 💼 [LinkedIn](https://www.linkedin.com/in/tivadar-b%C3%A1nfalvi-kov%C3%A1cs-4009b7381) · ✉️ [t.banfalvi.kovacs@gmail.com](mailto:t.banfalvi.kovacs@gmail.com)
+📄 [Résumé](https://bktb888.github.io/resume/) · 💼 [LinkedIn](https://www.linkedin.com/in/bktivadar) · ✉️ [t.banfalvi.kovacs@gmail.com](mailto:t.banfalvi.kovacs@gmail.com)
