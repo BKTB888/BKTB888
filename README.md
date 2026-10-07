@@ -18,7 +18,7 @@ Computer Engineering student at BME, Budapest.
 | [Risk](https://github.com/BKTB888/Risk) | Exact battle probabilities for the Risk board game | Rust |
 | [PathFinder](https://github.com/BKTB888/PathFinder) | Path-finding application | C++ |
 | [SudokuSolver](https://github.com/BKTB888/SudokuSolver) | Sudoku solver for any board size | C |
-| [LifeSim](https://github.com/BKTB888/LifeSim) | Life simulation | Java |
+| [LifeSim](https://github.com/BKTB888/LifeSim) | Life simulator game | Java |
 | [resume](https://github.com/BKTB888/resume) | Bilingual (HU/EN) résumé with one-click PDF | JavaScript |
 
 📄 [Résumé](https://bktb888.github.io/resume/) · 💼 [LinkedIn](https://www.linkedin.com/in/tivadar-b%C3%A1nfalvi-kov%C3%A1cs-4009b7381) · ✉️ [t.banfalvi.kovacs@gmail.com](mailto:t.banfalvi.kovacs@gmail.com)
